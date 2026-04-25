@@ -14,7 +14,7 @@
 
 <!-- Title -->
 <div align="center">
-        | &nbsp; 𝖢𝗒𝖻𝖾𝗋 𝖲𝖾𝖼𝗎𝗋𝗂𝗍𝗒 𝖯𝗋𝗈𝖿𝖾𝗌𝗌𝗂𝗈𝗇𝖺𝗅 &nbsp; | &nbsp; 𝖲𝖮𝖢 𝖠𝗇𝖺𝗅𝗒𝗌𝗍 &nbsp; | &nbsp; 𝖢𝗅𝗈𝗎𝖽 𝖲𝖾𝖼𝗎𝗋𝗂𝗍𝗒 &nbsp; | &nbsp; 𝖮𝗉𝖾𝗇 𝖲𝗈𝗎𝗋𝖼𝖾 𝖢𝗈𝗇𝗍𝗋𝗂𝖻𝗎𝗍𝗈𝗋 &nbsp; |
+        | &nbsp; 𝖢𝗒𝖻𝖾𝗋 𝖲𝖾𝖼𝗎𝗋𝗂𝗍𝗒 𝖠𝗇𝖺𝗅𝗒𝗌𝗍 &nbsp; | &nbsp; 𝖲𝖮𝖢 𝖠𝗇𝖺𝗅𝗒𝗌𝗍 &nbsp; | &nbsp; 𝖢𝗅𝗈𝗎𝖽 𝖲𝖾𝖼𝗎𝗋𝗂𝗍𝗒 &nbsp; | &nbsp; 𝖮𝗉𝖾𝗇 𝖲𝗈𝗎𝗋𝖼𝖾 𝖢𝗈𝗇𝗍𝗋𝗂𝖻𝗎𝗍𝗈𝗋 &nbsp; |
 </div>
 
 <br><br><br>
