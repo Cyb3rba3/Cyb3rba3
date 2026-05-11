@@ -1,3 +1,4 @@
+<br>
 <!-- Skills GIF -->
 <div align="center">
   <picture>
