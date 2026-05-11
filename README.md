@@ -61,7 +61,7 @@
 | [Hidden Layers](https://github.com/Cyb3rba3/Hidden_Layer) | A Python-based project that demonstrates steganography — the art of hiding secret messages inside non-secret files. It supports embedding and extracting text within text, images, audio, GIFs, and video files using techniques like Zero-Width Characters, Least Significant Bit (LSB) encoding and Huffman compression. |
 | [Slash Mark](https://github.com/Cyb3rba3/Slash-Mark) | A collection of cybersecurity projects focused on text encryption, image encryption, and keylogger. The repository demonstrates practical implementations of cryptography, encryption techniques, and security-related concepts. |
 | [LAN P2P](https://github.com/Cyb3rba3/LAN_P2P) | This project implements a simple Peer-to-Peer (P2P) file transfer system using Python. The sender and receiver communicate over a local area network to transfer a file. P2P systems allow direct communication between peers without the need for a central server.|
-<!--| [Repo Six](https://github.com/yourusername/repo6) | A short description of Repo Six goes here. | -->
+| [Note Nook](https://github.com/Cyb3rba3/NoteNook) | A cozy corner of curated notes — This repo is my dedicated corner for cybersecurity exploration and lifelong learning. |
 <!--| [Repo Seven](https://github.com/yourusername/repo7) | A short description of Repo Seven goes here. | -->
 <!--| [Repo Eight](https://github.com/yourusername/repo8) | A short description of Repo Eight goes here. | -->
 <!--| [Repo Nine](https://github.com/yourusername/repo9) | A short description of Repo Nine goes here. | -->
