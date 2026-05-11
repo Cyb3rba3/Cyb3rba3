@@ -52,56 +52,19 @@
 
 <!-- Repo Spotlight -->
 <h3 align="center">𝖱𝖾𝗉𝗈𝗌𝗂𝗍𝗈𝗋𝗒 𝖲𝗉𝗈𝗍𝗅𝗂𝗀𝗁𝗍</h3>
+<br>
 
-<div align="center">
-
-<table>
-  <tr>
-    <td style="padding:12px; border:1px solid #ddd; text-align:left; vertical-align:top; width:33%;">
-      <a href="https://github.com/yourusername/repo1"><b>Repo One</b></a><br/>
-      A short description of Repo One goes here.
-    </td>
-    <td style="padding:12px; border:1px solid #ddd; text-align:left; vertical-align:top; width:33%;">
-      <a href="https://github.com/yourusername/repo2"><b>Repo Two</b></a><br/>
-      A short description of Repo Two goes here.
-    </td>
-    <td style="padding:12px; border:1px solid #ddd; text-align:left; vertical-align:top; width:33%;">
-      <a href="https://github.com/yourusername/repo3"><b>Repo Three</b></a><br/>
-      A short description of Repo Three goes here.
-    </td>
-  </tr>
-  <tr>
-    <td style="padding:12px; border:1px solid #ddd; text-align:left; vertical-align:top;">
-      <a href="https://github.com/yourusername/repo4"><b>Repo Four</b></a><br/>
-      A short description of Repo Four goes here.
-    </td>
-    <td style="padding:12px; border:1px solid #ddd; text-align:left; vertical-align:top;">
-      <a href="https://github.com/yourusername/repo5"><b>Repo Five</b></a><br/>
-      A short description of Repo Five goes here.
-    </td>
-    <td style="padding:12px; border:1px solid #ddd; text-align:left; vertical-align:top;">
-      <a href="https://github.com/yourusername/repo6"><b>Repo Six</b></a><br/>
-      A short description of Repo Six goes here.
-    </td>
-  </tr>
-  <tr>
-    <td style="padding:12px; border:1px solid #ddd; text-align:left; vertical-align:top;">
-      <a href="https://github.com/yourusername/repo7"><b>Repo Seven</b></a><br/>
-      A short description of Repo Seven goes here.
-    </td>
-    <td style="padding:12px; border:1px solid #ddd; text-align:left; vertical-align:top;">
-      <a href="https://github.com/yourusername/repo8"><b>Repo Eight</b></a><br/>
-      A short description of Repo Eight goes here.
-    </td>
-    <td style="padding:12px; border:1px solid #ddd; text-align:left; vertical-align:top;">
-      <a href="https://github.com/yourusername/repo9"><b>Repo Nine</b></a><br/>
-      A short description of Repo Nine goes here.
-    </td>
-  </tr>
-</table>
-
-</div>
-
+| Repository | Description |
+|------------|-------------|
+| [IR Playbook Bot](https://github.com/Cyb3rba3/IR-Playbook-Bot) | IR Playbook Bot is a Slack-driven incident response assistant that executes secure PowerShell playbooks from chat commands, delivering enterprise-grade log collection, host quarantine, status checks, and remediation reports with role-based access control (RBAC) and comprehensive audit trails. |
+| [Powerwatch with Splunk](https://github.com/Cyb3rba3/PowerWatch_with_Splunk) | PowerWatch with Splunk is a security analytics project that leverages the powerful capabilities of Splunk to detect malicious PowerShell activity and anomalous application behavior in a Windows environment. Thus, demonstrating end-to-end security engineering — from building a detection lab, generating attack telemetry, to creating dashboards for real-time threat hunting. |
+| [Hidden Layers](https://github.com/Cyb3rba3/Hidden_Layer) | A Python-based project that demonstrates steganography — the art of hiding secret messages inside non-secret files. It supports embedding and extracting text within text, images, audio, GIFs, and video files using techniques like Zero-Width Characters, Least Significant Bit (LSB) encoding and Huffman compression. |
+| [Slash Mark](https://github.com/Cyb3rba3/Slash-Mark) | A collection of cybersecurity projects focused on text encryption, image encryption, and keylogger. The repository demonstrates practical implementations of cryptography, encryption techniques, and security-related concepts. |
+| [LAN P2P](https://github.com/Cyb3rba3/LAN_P2P) | This project implements a simple Peer-to-Peer (P2P) file transfer system using Python. The sender and receiver communicate over a local area network to transfer a file. P2P systems allow direct communication between peers without the need for a central server.|
+| [Repo Six](https://github.com/yourusername/repo6) | A short description of Repo Six goes here. |
+| [Repo Seven](https://github.com/yourusername/repo7) | A short description of Repo Seven goes here. |
+| [Repo Eight](https://github.com/yourusername/repo8) | A short description of Repo Eight goes here. |
+| [Repo Nine](https://github.com/yourusername/repo9) | A short description of Repo Nine goes here. |
 
 
 <Br><Br>
