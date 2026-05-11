@@ -1,5 +1,3 @@
-<Br><Br>
-
 <!-- Skills GIF -->
 <div align="center">
   <picture>
