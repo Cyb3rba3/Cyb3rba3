@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Python-FF8243" />
   <img src="https://img.shields.io/badge/Bash-FFC0CB" />
   <img src="https://img.shields.io/badge/PowerShell-FCE883" />
-  <img src="https://img.shields.io/badge/JavaScript-069494" />
+  <img src="https://img.shields.io/badge/SIEM-069494" />
   <img src="https://img.shields.io/badge/C-F791A9" />
   <img src="https://img.shields.io/badge/C++-C6DF76" />
   <img src="https://img.shields.io/badge/MySQL-4479A1" />
@@ -45,6 +45,9 @@
   <img src="https://img.shields.io/badge/Git_&_GitHub-F05032" />
   <img src="https://img.shields.io/badge/Machine_Learning-00C853" />
   <img src="https://img.shields.io/badge/Computer_Networks-8A2BE2" />
+  <img src="https://img.shields.io/badge/Security Monitoring-CFF800" />
+  <img src="https://img.shields.io/badge/Log Analysis-FCE883" />
+  <img src="https://img.shields.io/badge/Alert Triage-FFD1FF" />
 </p>
 
 
