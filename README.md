@@ -65,8 +65,8 @@
 | [Slash Mark](https://github.com/Cyb3rba3/Slash-Mark) | A collection of cybersecurity projects focused on text encryption, image encryption, and keylogger. The repository demonstrates practical implementations of cryptography, encryption techniques, and security-related concepts. |
 | [LAN P2P](https://github.com/Cyb3rba3/LAN_P2P) | This project implements a simple Peer-to-Peer (P2P) file transfer system using Python. The sender and receiver communicate over a local area network to transfer a file. P2P systems allow direct communication between peers without the need for a central server.|
 | [Note Nook](https://github.com/Cyb3rba3/NoteNook) | A cozy corner of curated notes — This repo is my dedicated corner for cybersecurity exploration and lifelong learning. |
-<!--| [Repo Seven](https://github.com/yourusername/repo7) | A short description of Repo Seven goes here. | -->
-<!--| [Repo Eight](https://github.com/yourusername/repo8) | A short description of Repo Eight goes here. | -->
+| [💎 Incident.Red](https://medium.com/@nishant.kumarr/list/7f90f3e8d919) | An ongoing, **hands-on Blue Team series** focused on detecting, investigating, and responding to real-world cyber threats. It covers SOC operations, alert triage, log analysis, detection engineering, threat hunting, DFIR, network analysis, Active Directory, threat intelligence, and security automation — building practical skills through realistic scenarios, telemetry, investigation workflows, detection logic, and defensive decision-making. |
+| [Bug Hunting](https://medium.com/@nishant.kumarr/list/1a7f36e630fe) | An ongoing, Bug Hunting series that shows you the full gameplay — picking a target, mapping the terrain, planning the attack, chasing every clue, weighing every possibility, right up to taking the shot. Because decisions, dead ends and rabbit holes teach more than a clean write-up ever can. | -->
 <!--| [Repo Nine](https://github.com/yourusername/repo9) | A short description of Repo Nine goes here. | -->
 
 
